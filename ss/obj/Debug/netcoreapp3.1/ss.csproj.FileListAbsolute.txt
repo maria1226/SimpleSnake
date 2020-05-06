@@ -1,0 +1,13 @@
+C:\Users\maria\source\repos\ss\ss\bin\Debug\netcoreapp3.1\ss.exe
+C:\Users\maria\source\repos\ss\ss\bin\Debug\netcoreapp3.1\ss.deps.json
+C:\Users\maria\source\repos\ss\ss\bin\Debug\netcoreapp3.1\ss.runtimeconfig.json
+C:\Users\maria\source\repos\ss\ss\bin\Debug\netcoreapp3.1\ss.runtimeconfig.dev.json
+C:\Users\maria\source\repos\ss\ss\bin\Debug\netcoreapp3.1\ss.dll
+C:\Users\maria\source\repos\ss\ss\bin\Debug\netcoreapp3.1\ss.pdb
+C:\Users\maria\source\repos\ss\ss\obj\Debug\netcoreapp3.1\ss.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\ss\ss\obj\Debug\netcoreapp3.1\ss.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ss\ss\obj\Debug\netcoreapp3.1\ss.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\ss\ss\obj\Debug\netcoreapp3.1\ss.AssemblyInfo.cs
+C:\Users\maria\source\repos\ss\ss\obj\Debug\netcoreapp3.1\ss.dll
+C:\Users\maria\source\repos\ss\ss\obj\Debug\netcoreapp3.1\ss.pdb
+C:\Users\maria\source\repos\ss\ss\obj\Debug\netcoreapp3.1\ss.genruntimeconfig.cache
